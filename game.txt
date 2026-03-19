@@ -7,3 +7,6 @@ Local change made by me after my Teammate made a change
 (I now actually discarded my TeamMate's changes and made my Local changes persistent)
 
 Created a Checkpoint
+
+(I wrote something trash bymistakely here, but thanks to "Discard changes" option, I could revert back to the Checkpoint )
+
