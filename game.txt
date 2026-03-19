@@ -14,3 +14,8 @@ Started working on a new feature
 Stashed my Partially created feature
 Completed the task given by my TeamMate
 
+Created feature partially
+(
+    But now my TeamMate wants me to pause my work and wants me to work on some other important task
+    So, I Stashed my partially created feature for working on it later
+)
