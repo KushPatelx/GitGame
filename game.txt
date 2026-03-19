@@ -27,3 +27,8 @@ Made a terrible mistake and made a Weird Mistake Commit as well
 Ready for new work now
 
 Created a new Checkpoint
+
+Created a new file and started working on it
+But it failed terribly and recovery seemed impossible... I just wanted to get rid the whole file
+But thanks to git reset --hard, I got rid of it 
+Now, ready for new work
