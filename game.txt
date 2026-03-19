@@ -4,3 +4,4 @@ Working in the new Branch
 
 Local change made by me after my Teammate made a change
 (I did not pulled the file having my Teammate's update before)
+(I now actually discarded my TeamMate's changes and made my Local changes persistent)
