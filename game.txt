@@ -32,3 +32,5 @@ Created a new file and started working on it
 But it failed terribly and recovery seemed impossible... I just wanted to get rid the whole file
 But thanks to git reset --hard, I got rid of it 
 Now, ready for new work
+
+Created a new Checkpoint
