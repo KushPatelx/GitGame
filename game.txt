@@ -25,3 +25,5 @@ Made a terrible mistake and made a Weird Mistake Commit as well
     But thanks to "Undo last Commit" option, I was able to go back to where I started
 )
 Ready for new work now
+
+Created a new Checkpoint
